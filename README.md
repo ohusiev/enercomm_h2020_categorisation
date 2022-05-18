@@ -1,1 +1,1 @@
-# enercomm_h2020_categorization
+# enercomm_h2020_categorisation
