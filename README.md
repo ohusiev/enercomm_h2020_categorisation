@@ -18,5 +18,5 @@ The database contains information on 35,326 projects. Each record (one project) 
 3.	Using the objective field, we build a list of terms (1-, 2-, 3- and possibly 4-grams) and their frequency distribution (normal distribution and TF-IDF distribution). Here it´s important to expand the list of stop words
 4.	The list of terms can be classified, I think, two levels. But here it is necessary to reasonably limit the number of categories of level 2. At this stage, it would be "manual" creative work. In the meantime, we get this kind of plate:
 
-| Term |	Frequency |	Inverse document frequency|	Category 1(upper layer)	| Category 2 (second layer) |
-| .... |  ...       | ...                       | ...                     | ...                       |				
+| Term |	Frequency |	Inverse document frequency|	Category 1 <br /> (upper layer)	| Category 2 <br /> (second layer) |
+| :----: | :--------------------: | :------------------: | :--------------------------------: | :-------------------------------: |			
