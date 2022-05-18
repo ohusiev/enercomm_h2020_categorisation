@@ -1,5 +1,4 @@
 # Analysis of Horizon 2020 energy projects directed to communities
-### enercomm_h2020_categorisation
 
 ## Subject of research:
 The subject of the study is information on completed projects of the EC Horizon 2020 program (H2020), collected on the CORDIS service. 
