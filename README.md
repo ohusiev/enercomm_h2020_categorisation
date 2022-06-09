@@ -25,4 +25,4 @@ The database contains information on 35,326 projects. Each record (one project) 
 
 ## Visualisation
 The version of visualisation tool with limited functionality available in notebook/enercomm_dashboard_plotly.ipynb file
-![newplot](https://github.com/ohusiev/enercomm_h2020_categorisation/blob/548df40bf5df5cfcb7b0a92789bb64921224d374/docs/newplot.png)
+![newplot_1](https://github.com/ohusiev/enercomm_h2020_categorisation/blob/548df40bf5df5cfcb7b0a92789bb64921224d374/docs/newplot.png)
