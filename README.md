@@ -22,3 +22,6 @@ The database contains information on 35,326 projects. Each record (one project) 
 
 | Term |	Frequency |	Inverse document frequency|	Category 1 <br /> (upper layer)	| Category 2 <br /> (second layer) |
 | :----: | :--------------------: | :------------------: | :--------------------------------: | :-------------------------------: |			
+
+## Visualisation
+The version of visualisation tool approach with limited functionality available in notebook/enercomm_dashboard_plotly.ipynb file
