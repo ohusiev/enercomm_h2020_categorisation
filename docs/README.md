@@ -27,7 +27,8 @@ The database contains information on 35,326 projects. Each record (one project) 
 The version of visualisation tool with limited functionality available in ../notebook/enercomm_dashboard_plotly.ipynb file
 ![newplot2](https://github.com/ohusiev/enercomm_h2020_categorisation/blob/1c8b19f40546a1e7d0ec7faf77e6c0dd09c3d25f/docs/newplot1.png)
 
-----
+---
 
 This is the GitHub repository of the code developed for the analyses in:
+
 O. Husiev, O. Ukar Arrien, and M. Enciso-Santocildes, ‘What does Horizon 2020 contribute to? Analysing and visualising the community practices of Europe’s largest research and innovation programme’, Energy Research & Social Science, vol. 95, p. 102879, Jan. 2023, [doi: 10.1016/j.erss.2022.102879](https://doi.org/10.1016/j.erss.2022.102879).
